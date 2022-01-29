@@ -1,3 +1,3 @@
 # MiliCode Project
 
-Comming soon
+Coming soon
